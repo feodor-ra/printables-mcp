@@ -1,5 +1,7 @@
 # printables-mcp
 
+<!-- mcp-name: io.github.feodor-ra/printables-mcp -->
+
 **English** · [Русский](README.ru.md)
 
 [![PyPI - Version](https://img.shields.io/pypi/v/printables-mcp)](https://pypi.org/project/printables-mcp/)
