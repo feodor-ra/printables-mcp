@@ -1,0 +1,95 @@
+[project]
+name = "printables-mcp"
+version = "0.1.0"
+description = "MCP server for Printables.com: search 3D models, read model cards, list files and get download links"
+readme = "README.md"
+authors = [
+    { name = "Fedor Ratschew", email = "feodor.ra@me.com" },
+]
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+keywords = ["mcp", "model-context-protocol", "printables", "3d-printing", "llm"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Typing :: Typed",
+]
+dependencies = [
+    "anyio>=4.9",
+    "httpx2>=2.10",
+    "markdownify>=1.2",
+    "mcp>=2.3,<3",
+    "pydantic>=2.12",
+]
+
+[project.scripts]
+printables-mcp = "printables_mcp.server:main"
+
+[project.urls]
+Homepage = "https://github.com/feodor-ra/printables-mcp"
+Repository = "https://github.com/feodor-ra/printables-mcp"
+Issues = "https://github.com/feodor-ra/printables-mcp/issues"
+
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+line-length = 120
+preview = true
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = [
+    "CPY",                    # flake8-copyright: no per-file copyright notices
+    "missing-trailing-comma", # COM812: conflicts with the formatter
+    "relative-imports",       # TID252: relative imports inside the package are welcome
+]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = [
+    "assert",                     # S101: pytest is built on assert
+    "implicit-namespace-package", # INP001: the tests directory is not a package
+    "magic-value-comparison",     # PLR2004: comparing to literal counts is normal in tests
+    "import-private-name",        # PLC2701: tests exercise the package's private internals
+]
+
+[tool.ty.rules]
+all = "error"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--strict-config --strict-markers -m 'not live'"
+markers = ["live: hits the real Printables API (run with `-m live`)"]
+
+[tool.coverage.run]
+source = ["printables_mcp"]
+branch = true
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 100
+
+[dependency-groups]
+dev = [
+    "anyio~=4.15.1",
+    "pytest~=9.2.0",
+    "pytest-cov~=7.1.0",
+    "ruff==0.17.3",
+    "ty==0.0.95",
+]
