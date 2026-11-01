@@ -9,6 +9,9 @@
 ![PyPI - Status](https://img.shields.io/pypi/status/printables-mcp)
 [![CI](https://github.com/feodor-ra/printables-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/feodor-ra/printables-mcp/actions/workflows/ci.yml)
 
+[![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.feodor--ra%2Fprintables--mcp-blue)](https://registry.modelcontextprotocol.io/?q=printables-mcp)
+[![feodor-ra/printables-mcp MCP server](https://glama.ai/mcp/servers/feodor-ra/printables-mcp/badges/score.svg)](https://glama.ai/mcp/servers/feodor-ra/printables-mcp)
+
 **An [MCP](https://modelcontextprotocol.io) server for [Printables.com](https://www.printables.com)**: lets an AI agent search 3D models, read model cards, list files and get direct download links.
 
 It talks to the public Printables GraphQL API directly: no HTML scraping, no browser, no account. All tools are read-only and return structured results (JSON with an output schema), so agents get exact fields instead of prose.
