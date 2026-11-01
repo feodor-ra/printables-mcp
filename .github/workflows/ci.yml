@@ -68,3 +68,22 @@ jobs:
         run: >-
           uv run --isolated --no-project --with dist/*.whl
           python -c "from printables_mcp.server import TOOLS, create_server; create_server(); assert len(TOOLS) == 8"
+
+  docker:
+    name: "Docker"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Build image
+        run: docker build -t printables-mcp .
+      # Directories such as Glama build this Dockerfile and list the tools over stdio
+      - name: Smoke test the image
+        run: |
+          {
+            printf '%s\n' \
+              '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"ci","version":"0"}}}' \
+              '{"jsonrpc":"2.0","method":"notifications/initialized"}' \
+              '{"jsonrpc":"2.0","id":2,"method":"tools/list"}'
+            sleep 5
+          } | docker run -i --rm printables-mcp > out.jsonl
+          python3 -c "import json; r = [json.loads(l) for l in open('out.jsonl')]; assert len(r[-1]['result']['tools']) == 8, r"

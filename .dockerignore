@@ -1,0 +1,7 @@
+.git
+.github
+.venv
+.*_cache
+.coverage
+dist
+tests
