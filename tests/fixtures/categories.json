@@ -1,0 +1,1196 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": "1",
+        "name": "3D Printers",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          }
+        ]
+      },
+      {
+        "id": "134",
+        "name": "Prusa Parts & Upgrades",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "134",
+            "name": "Prusa Parts & Upgrades"
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "name": "Accessories",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "40",
+            "name": "Accessories"
+          }
+        ]
+      },
+      {
+        "id": "138",
+        "name": "Anycubic Parts & Upgrades",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "138",
+            "name": "Anycubic Parts & Upgrades"
+          }
+        ]
+      },
+      {
+        "id": "136",
+        "name": "Bambu Lab Parts & Upgrades",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "136",
+            "name": "Bambu Lab Parts & Upgrades"
+          }
+        ]
+      },
+      {
+        "id": "135",
+        "name": "Creality Parts & Upgrades",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "135",
+            "name": "Creality Parts & Upgrades"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Other Printer Parts & Upgrades",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "2",
+            "name": "Other Printer Parts & Upgrades"
+          }
+        ]
+      },
+      {
+        "id": "137",
+        "name": "Voron Parts & Upgrades",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "137",
+            "name": "Voron Parts & Upgrades"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "name": "Test Models",
+        "path": [
+          {
+            "id": "1",
+            "name": "3D Printers"
+          },
+          {
+            "id": "12",
+            "name": "Test Models"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "name": "Art & Design",
+        "path": [
+          {
+            "id": "13",
+            "name": "Art & Design"
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "name": "2D Plates & Logos",
+        "path": [
+          {
+            "id": "13",
+            "name": "Art & Design"
+          },
+          {
+            "id": "16",
+            "name": "2D Plates & Logos"
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "name": "Sculptures",
+        "path": [
+          {
+            "id": "13",
+            "name": "Art & Design"
+          },
+          {
+            "id": "14",
+            "name": "Sculptures"
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "name": "Wall-mounted",
+        "path": [
+          {
+            "id": "13",
+            "name": "Art & Design"
+          },
+          {
+            "id": "15",
+            "name": "Wall-mounted"
+          }
+        ]
+      },
+      {
+        "id": "41",
+        "name": "Other Art & Designs",
+        "path": [
+          {
+            "id": "13",
+            "name": "Art & Design"
+          },
+          {
+            "id": "41",
+            "name": "Other Art & Designs"
+          }
+        ]
+      },
+      {
+        "id": "76",
+        "name": "Costumes & Accessories",
+        "path": [
+          {
+            "id": "76",
+            "name": "Costumes & Accessories"
+          }
+        ]
+      },
+      {
+        "id": "77",
+        "name": "Cosplay & Costumes in general",
+        "path": [
+          {
+            "id": "76",
+            "name": "Costumes & Accessories"
+          },
+          {
+            "id": "77",
+            "name": "Cosplay & Costumes in general"
+          }
+        ]
+      },
+      {
+        "id": "78",
+        "name": "Masks",
+        "path": [
+          {
+            "id": "76",
+            "name": "Costumes & Accessories"
+          },
+          {
+            "id": "78",
+            "name": "Masks"
+          }
+        ]
+      },
+      {
+        "id": "81",
+        "name": "Props",
+        "path": [
+          {
+            "id": "76",
+            "name": "Costumes & Accessories"
+          },
+          {
+            "id": "81",
+            "name": "Props"
+          }
+        ]
+      },
+      {
+        "id": "80",
+        "name": "Other Costume Accessories",
+        "path": [
+          {
+            "id": "76",
+            "name": "Costumes & Accessories"
+          },
+          {
+            "id": "80",
+            "name": "Other Costume Accessories"
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "name": "Fashion",
+        "path": [
+          {
+            "id": "17",
+            "name": "Fashion"
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "name": "Men",
+        "path": [
+          {
+            "id": "17",
+            "name": "Fashion"
+          },
+          {
+            "id": "18",
+            "name": "Men"
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "name": "Women",
+        "path": [
+          {
+            "id": "17",
+            "name": "Fashion"
+          },
+          {
+            "id": "20",
+            "name": "Women"
+          }
+        ]
+      },
+      {
+        "id": "42",
+        "name": "Other Fashion Accessories",
+        "path": [
+          {
+            "id": "17",
+            "name": "Fashion"
+          },
+          {
+            "id": "42",
+            "name": "Other Fashion Accessories"
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "name": "Gadgets",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "name": "Audio",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          },
+          {
+            "id": "25",
+            "name": "Audio"
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "name": "Computers",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          },
+          {
+            "id": "27",
+            "name": "Computers"
+          }
+        ]
+      },
+      {
+        "id": "26",
+        "name": "Photo & Video",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          },
+          {
+            "id": "26",
+            "name": "Photo & Video"
+          }
+        ]
+      },
+      {
+        "id": "28",
+        "name": "Portable Devices",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          },
+          {
+            "id": "28",
+            "name": "Portable Devices"
+          }
+        ]
+      },
+      {
+        "id": "100",
+        "name": "Video Games",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          },
+          {
+            "id": "100",
+            "name": "Video Games"
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "name": "Virtual Reality",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          },
+          {
+            "id": "140",
+            "name": "Virtual Reality"
+          }
+        ]
+      },
+      {
+        "id": "43",
+        "name": "Other Gadgets",
+        "path": [
+          {
+            "id": "21",
+            "name": "Gadgets"
+          },
+          {
+            "id": "43",
+            "name": "Other Gadgets"
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "name": "Healthcare",
+        "path": [
+          {
+            "id": "87",
+            "name": "Healthcare"
+          }
+        ]
+      },
+      {
+        "id": "88",
+        "name": "Home Medical Tools",
+        "path": [
+          {
+            "id": "87",
+            "name": "Healthcare"
+          },
+          {
+            "id": "88",
+            "name": "Home Medical Tools"
+          }
+        ]
+      },
+      {
+        "id": "99",
+        "name": "Medical Tools",
+        "path": [
+          {
+            "id": "87",
+            "name": "Healthcare"
+          },
+          {
+            "id": "99",
+            "name": "Medical Tools"
+          }
+        ]
+      },
+      {
+        "id": "48",
+        "name": "Hobby & Makers",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          }
+        ]
+      },
+      {
+        "id": "89",
+        "name": "Automotive",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "89",
+            "name": "Automotive"
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "name": "Electronics",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "52",
+            "name": "Electronics"
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "name": "Mechanical Parts",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "51",
+            "name": "Mechanical Parts"
+          }
+        ]
+      },
+      {
+        "id": "95",
+        "name": "Music",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "95",
+            "name": "Music"
+          }
+        ]
+      },
+      {
+        "id": "50",
+        "name": "Organizers",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "50",
+            "name": "Organizers"
+          }
+        ]
+      },
+      {
+        "id": "64",
+        "name": "RC & Robotics",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "64",
+            "name": "RC & Robotics"
+          }
+        ]
+      },
+      {
+        "id": "49",
+        "name": "Tools",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "49",
+            "name": "Tools"
+          }
+        ]
+      },
+      {
+        "id": "82",
+        "name": "Other Ideas",
+        "path": [
+          {
+            "id": "48",
+            "name": "Hobby & Makers"
+          },
+          {
+            "id": "82",
+            "name": "Other Ideas"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Household",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Bathroom",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "5",
+            "name": "Bathroom"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "name": "Bedroom",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "6",
+            "name": "Bedroom"
+          }
+        ]
+      },
+      {
+        "id": "139",
+        "name": "Garage",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "139",
+            "name": "Garage"
+          }
+        ]
+      },
+      {
+        "id": "44",
+        "name": "Home Decor",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "44",
+            "name": "Home Decor"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Kitchen",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "4",
+            "name": "Kitchen"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "Living Room",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "7",
+            "name": "Living Room"
+          }
+        ]
+      },
+      {
+        "id": "29",
+        "name": "Office",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "29",
+            "name": "Office"
+          }
+        ]
+      },
+      {
+        "id": "53",
+        "name": "Outdoor & Garden",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "53",
+            "name": "Outdoor & Garden"
+          }
+        ]
+      },
+      {
+        "id": "45",
+        "name": "Other House Equipment",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "45",
+            "name": "Other House Equipment"
+          }
+        ]
+      },
+      {
+        "id": "57",
+        "name": "Pets",
+        "path": [
+          {
+            "id": "3",
+            "name": "Household"
+          },
+          {
+            "id": "57",
+            "name": "Pets"
+          }
+        ]
+      },
+      {
+        "id": "90",
+        "name": "Learning",
+        "path": [
+          {
+            "id": "90",
+            "name": "Learning"
+          }
+        ]
+      },
+      {
+        "id": "92",
+        "name": "Chemistry & Biology",
+        "path": [
+          {
+            "id": "90",
+            "name": "Learning"
+          },
+          {
+            "id": "92",
+            "name": "Chemistry & Biology"
+          }
+        ]
+      },
+      {
+        "id": "93",
+        "name": "Engineering",
+        "path": [
+          {
+            "id": "90",
+            "name": "Learning"
+          },
+          {
+            "id": "93",
+            "name": "Engineering"
+          }
+        ]
+      },
+      {
+        "id": "98",
+        "name": "Haptic Models",
+        "path": [
+          {
+            "id": "90",
+            "name": "Learning"
+          },
+          {
+            "id": "98",
+            "name": "Haptic Models"
+          }
+        ]
+      },
+      {
+        "id": "94",
+        "name": "Math",
+        "path": [
+          {
+            "id": "90",
+            "name": "Learning"
+          },
+          {
+            "id": "94",
+            "name": "Math"
+          }
+        ]
+      },
+      {
+        "id": "96",
+        "name": "Other 3D Objects for Learning",
+        "path": [
+          {
+            "id": "90",
+            "name": "Learning"
+          },
+          {
+            "id": "96",
+            "name": "Other 3D Objects for Learning"
+          }
+        ]
+      },
+      {
+        "id": "91",
+        "name": "Physics & Astronomy",
+        "path": [
+          {
+            "id": "90",
+            "name": "Learning"
+          },
+          {
+            "id": "91",
+            "name": "Physics & Astronomy"
+          }
+        ]
+      },
+      {
+        "id": "65",
+        "name": "Seasonal designs",
+        "path": [
+          {
+            "id": "65",
+            "name": "Seasonal designs"
+          }
+        ]
+      },
+      {
+        "id": "69",
+        "name": "Autumn & Halloween",
+        "path": [
+          {
+            "id": "65",
+            "name": "Seasonal designs"
+          },
+          {
+            "id": "69",
+            "name": "Autumn & Halloween"
+          }
+        ]
+      },
+      {
+        "id": "68",
+        "name": "Spring & Easter",
+        "path": [
+          {
+            "id": "65",
+            "name": "Seasonal designs"
+          },
+          {
+            "id": "68",
+            "name": "Spring & Easter"
+          }
+        ]
+      },
+      {
+        "id": "71",
+        "name": "Summer",
+        "path": [
+          {
+            "id": "65",
+            "name": "Seasonal designs"
+          },
+          {
+            "id": "71",
+            "name": "Summer"
+          }
+        ]
+      },
+      {
+        "id": "70",
+        "name": "Winter & Christmas & New Year's",
+        "path": [
+          {
+            "id": "65",
+            "name": "Seasonal designs"
+          },
+          {
+            "id": "70",
+            "name": "Winter & Christmas & New Year's"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "Sports & Outdoor",
+        "path": [
+          {
+            "id": "9",
+            "name": "Sports & Outdoor"
+          }
+        ]
+      },
+      {
+        "id": "84",
+        "name": "Indoor Sports",
+        "path": [
+          {
+            "id": "9",
+            "name": "Sports & Outdoor"
+          },
+          {
+            "id": "84",
+            "name": "Indoor Sports"
+          }
+        ]
+      },
+      {
+        "id": "85",
+        "name": "Other Sports",
+        "path": [
+          {
+            "id": "9",
+            "name": "Sports & Outdoor"
+          },
+          {
+            "id": "85",
+            "name": "Other Sports"
+          }
+        ]
+      },
+      {
+        "id": "83",
+        "name": "Outdoor Sports",
+        "path": [
+          {
+            "id": "9",
+            "name": "Sports & Outdoor"
+          },
+          {
+            "id": "83",
+            "name": "Outdoor Sports"
+          }
+        ]
+      },
+      {
+        "id": "74",
+        "name": "Winter Sports",
+        "path": [
+          {
+            "id": "9",
+            "name": "Sports & Outdoor"
+          },
+          {
+            "id": "74",
+            "name": "Winter Sports"
+          }
+        ]
+      },
+      {
+        "id": "101",
+        "name": "Tabletop Miniatures",
+        "path": [
+          {
+            "id": "101",
+            "name": "Tabletop Miniatures"
+          }
+        ]
+      },
+      {
+        "id": "97",
+        "name": "Characters & Monsters",
+        "path": [
+          {
+            "id": "101",
+            "name": "Tabletop Miniatures"
+          },
+          {
+            "id": "97",
+            "name": "Characters & Monsters"
+          }
+        ]
+      },
+      {
+        "id": "104",
+        "name": "Miniature Gaming Accessories",
+        "path": [
+          {
+            "id": "101",
+            "name": "Tabletop Miniatures"
+          },
+          {
+            "id": "104",
+            "name": "Miniature Gaming Accessories"
+          }
+        ]
+      },
+      {
+        "id": "103",
+        "name": "Props & Terrains",
+        "path": [
+          {
+            "id": "101",
+            "name": "Tabletop Miniatures"
+          },
+          {
+            "id": "103",
+            "name": "Props & Terrains"
+          }
+        ]
+      },
+      {
+        "id": "105",
+        "name": "Vehicles & Machines",
+        "path": [
+          {
+            "id": "101",
+            "name": "Tabletop Miniatures"
+          },
+          {
+            "id": "105",
+            "name": "Vehicles & Machines"
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "name": "Toys & Games",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          }
+        ]
+      },
+      {
+        "id": "36",
+        "name": "Action Figures & Statues",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "36",
+            "name": "Action Figures & Statues"
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "name": "Board Games",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "31",
+            "name": "Board Games"
+          }
+        ]
+      },
+      {
+        "id": "37",
+        "name": "Building Toys",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "37",
+            "name": "Building Toys"
+          }
+        ]
+      },
+      {
+        "id": "34",
+        "name": "Outdoor Toys",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "34",
+            "name": "Outdoor Toys"
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "name": "Puzzles & Brain-teasers",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "33",
+            "name": "Puzzles & Brain-teasers"
+          }
+        ]
+      },
+      {
+        "id": "38",
+        "name": "Vehicles",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "38",
+            "name": "Vehicles"
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "name": "Other Toys & Games",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "47",
+            "name": "Other Toys & Games"
+          }
+        ]
+      },
+      {
+        "id": "58",
+        "name": "World & Scans",
+        "path": [
+          {
+            "id": "58",
+            "name": "World & Scans"
+          }
+        ]
+      },
+      {
+        "id": "61",
+        "name": "Animals",
+        "path": [
+          {
+            "id": "58",
+            "name": "World & Scans"
+          },
+          {
+            "id": "61",
+            "name": "Animals"
+          }
+        ]
+      },
+      {
+        "id": "62",
+        "name": "Architecture & Urbanism",
+        "path": [
+          {
+            "id": "58",
+            "name": "World & Scans"
+          },
+          {
+            "id": "62",
+            "name": "Architecture & Urbanism"
+          }
+        ]
+      },
+      {
+        "id": "75",
+        "name": "Historical Context",
+        "path": [
+          {
+            "id": "58",
+            "name": "World & Scans"
+          },
+          {
+            "id": "75",
+            "name": "Historical Context"
+          }
+        ]
+      },
+      {
+        "id": "60",
+        "name": "People",
+        "path": [
+          {
+            "id": "58",
+            "name": "World & Scans"
+          },
+          {
+            "id": "60",
+            "name": "People"
+          }
+        ]
+      }
+    ]
+  }
+}

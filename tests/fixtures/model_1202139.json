@@ -1,0 +1,112 @@
+{
+  "data": {
+    "model": {
+      "id": "1202139",
+      "name": "Fidget Benchy (3D Benchy remix)",
+      "slug": "fidget-benchy-3d-benchy-remix",
+      "summary": "Wobble the funnel, click the lever and rotate the joystick! 3 fidget toys in the most famous model ever!",
+      "description": "<p><strong>! IMPORTANT INFORMATION !</strong></p><p><i><strong>This version of the model is outdated</strong></i> and has been since improved to ensure higher probability of succesful prints, still with same assets.<i><strong> I would recommend you printing the new version</strong></i>, because many people had problems with the old one.</p><p><strong>Download it here: </strong><a href=\"https://www.printables.com/model/1294643-fidget-benchy-20\"><strong>https://www.printables.com/model/1294643-fidget-benchy-20</strong></a></p><p>&nbsp;</p><p>Print the Benchy and than have fun with 3 inbuilt fidget assets.</p><p>But it is still a torture test, now maybe even harder, so I don't recommend it to beginners.</p><p><strong>Print settings:</strong></p><ul><li>0,15 mm layer height</li><li>15% infill</li><li>no supports</li></ul><p><strong>Post printing:</strong></p><ol><li>Cut the brim of the benchy.</li><li>Apply some force to free the joystick. Be careful not to break anything else.</li><li>Carefully free the spring and the lever. Some force mightt be needed but be more careful about it than with the joystick.</li><li><strong>Have fun with the Benchy!</strong> (But don't forget that the funnel might be a bit brittle.)</li></ol>",
+      "authorship": "remix",
+      "datePublished": "2025-05-13T19:33:56.763280+00:00",
+      "firstPublish": "2025-02-22T10:14:56.547905+00:00",
+      "ratingAvg": "3.4615384615",
+      "ratingCount": 13,
+      "likesCount": 726,
+      "downloadCount": 3067,
+      "displayCount": 12419,
+      "makesCount": 16,
+      "commentCount": 48,
+      "premium": false,
+      "price": null,
+      "nsfw": false,
+      "mmu": false,
+      "printDuration": null,
+      "weight": null,
+      "user": {
+        "id": "2367139",
+        "handle": "JTF_labs",
+        "publicUsername": "JTF labs"
+      },
+      "category": {
+        "id": "38",
+        "name": "Vehicles",
+        "path": [
+          {
+            "id": "30",
+            "name": "Toys & Games"
+          },
+          {
+            "id": "38",
+            "name": "Vehicles"
+          }
+        ]
+      },
+      "license": {
+        "id": "4",
+        "name": "Creative Commons — Attribution  — Noncommercial  —  Share Alike",
+        "abbreviation": "CC-BY-NC-SA"
+      },
+      "tags": [
+        {
+          "name": "benchy"
+        },
+        {
+          "name": "fidget"
+        },
+        {
+          "name": "fidgettoy"
+        },
+        {
+          "name": "fun"
+        },
+        {
+          "name": "joystick"
+        },
+        {
+          "name": "torturetest"
+        },
+        {
+          "name": "3dbenchy"
+        },
+        {
+          "name": "wobbly"
+        },
+        {
+          "name": "lever"
+        }
+      ],
+      "materials": [],
+      "printer": null,
+      "images": [
+        {
+          "filePath": "media/prints/1202139/images/9029281_e33ed3c2-1db3-4b4e-b488-19d661211490_b0765f6c-9091-4761-8d2d-dcd7a09da8fe/fidget-benchy-cover.png"
+        },
+        {
+          "filePath": "media/prints/1202139/images/9029360_c2a21525-5c33-4e57-aff2-ef2e62737460_db13ae7c-7461-4cd2-a2f9-62d171e1d009/funnel.gif"
+        },
+        {
+          "filePath": "media/prints/1202139/images/9029366_603c775c-53b1-41af-9ac6-d732cdb61fc5_59c23f78-0ddd-40b1-ba4f-c58ed86be07e/joystick.gif"
+        },
+        {
+          "filePath": "media/prints/1202139/images/9029405_ec312109-9295-45a8-8106-207e4480e6cf_ddec513e-13e1-4b3c-ab38-0caab152a216/lever.gif"
+        },
+        {
+          "filePath": "media/prints/1202139/images/9029504_2a3dae01-2cec-45f8-8168-35bd2aa8a057_fc5563b3-0506-4448-96f6-ad3eba144ac6/fidget-benchy-mechanisms.png"
+        }
+      ],
+      "pdfFilePath": "media/prints/1202139/pdfs/1202139-fidget-benchy-3d-benchy-remix-89ec0a52-952a-4b01-bd7c-537b92e1ab75.pdf",
+      "remixParents": [
+        {
+          "parentPrintId": "1005141",
+          "parentPrintName": "Fidget Clicky Lever",
+          "url": null
+        },
+        {
+          "parentPrintId": "3161",
+          "parentPrintName": "3D BENCHY",
+          "url": null
+        }
+      ]
+    }
+  }
+}

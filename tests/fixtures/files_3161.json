@@ -1,0 +1,108 @@
+{
+  "data": {
+    "model": {
+      "id": "3161",
+      "slug": "3d-benchy",
+      "stls": [
+        {
+          "id": "49068",
+          "name": "3dbenchy.stl",
+          "fileSize": 11285384,
+          "folder": "",
+          "note": "",
+          "filePreviewPath": "media/prints/3161/stls/123914_1f1d8ca1-252a-4770-846f-52f1208d193d/3dbenchy_preview.png"
+        }
+      ],
+      "gcodes": [
+        {
+          "id": "240956",
+          "name": "BonkersBenchy_PLA_8m.bgcode",
+          "fileSize": 546849,
+          "folder": "MK4S G-codes",
+          "note": "",
+          "filePreviewPath": "media/prints/3161/previews/012991ab801ce126f353641678da3746c3b0419a.png",
+          "printDuration": "0.14",
+          "layerHeight": "0.28",
+          "nozzleDiameter": "0.40",
+          "weight": 6,
+          "printer": {
+            "name": "Prusa MK4S"
+          },
+          "material": {
+            "name": "PLA"
+          }
+        },
+        {
+          "id": "240957",
+          "name": "BenchyRules_PLA_14m.bgcode",
+          "fileSize": 1198713,
+          "folder": "MK4S G-codes",
+          "note": "",
+          "filePreviewPath": "media/prints/3161/previews/1038e55beedf5eb00e4acff2444387e44c974e2e.png",
+          "printDuration": "0.24",
+          "layerHeight": "0.25",
+          "nozzleDiameter": "0.40",
+          "weight": 10,
+          "printer": {
+            "name": "Prusa MK4S"
+          },
+          "material": {
+            "name": "PLA"
+          }
+        },
+        {
+          "id": "13745",
+          "name": "3dbenchy_015mm_pla_mk3_2h.gcode",
+          "fileSize": 6726610,
+          "folder": "",
+          "note": "",
+          "filePreviewPath": "media/prints/3161/gcodes/339176_fcb5e5d0-271c-4bb1-b9cb-87fce7c28a38/3dbenchy_015mm_pla_mk3_2h_preview.png",
+          "printDuration": "2.08",
+          "layerHeight": "0.15",
+          "nozzleDiameter": "0.40",
+          "weight": 11,
+          "printer": {
+            "name": "Prusa MK3/S/S+"
+          },
+          "material": {
+            "name": "PLA"
+          }
+        },
+        {
+          "id": "60999",
+          "name": "3DBenchy_150um_MINI_PLA_2h.gcode",
+          "fileSize": 4593837,
+          "folder": "",
+          "note": "",
+          "filePreviewPath": "media/prints/3161/gcodes/1344423_46d8cf06-0fdb-4e05-bf05-01c676a553f1/3dbenchy_150um_mini_pla_2h_preview.png",
+          "printDuration": "1.94",
+          "layerHeight": "0.15",
+          "nozzleDiameter": "0.40",
+          "weight": 11,
+          "printer": {
+            "name": "Prusa MINI / MINI+"
+          },
+          "material": {
+            "name": "PLA"
+          }
+        }
+      ],
+      "slas": [],
+      "otherFiles": [],
+      "downloadPacks": [
+        {
+          "id": "7763318",
+          "name": "",
+          "fileSize": 4807370,
+          "fileType": "MODEL_FILES"
+        },
+        {
+          "id": "7768534",
+          "name": "",
+          "fileSize": 4425988,
+          "fileType": "PRINT_FILES"
+        }
+      ]
+    }
+  }
+}

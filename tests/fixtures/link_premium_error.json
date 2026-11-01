@@ -1,0 +1,16 @@
+{
+  "data": {
+    "result": {
+      "ok": false,
+      "errors": [
+        {
+          "field": "non_field_error",
+          "messages": [
+            "cannot_download_premium_file_as_anonymous_user"
+          ]
+        }
+      ],
+      "output": null
+    }
+  }
+}
