@@ -1,6 +1,6 @@
 [project]
 name = "printables-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server for Printables.com: search 3D models, read model cards, list files and get download links"
 readme = "README.md"
 authors = [
