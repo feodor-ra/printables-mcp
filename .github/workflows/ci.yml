@@ -76,7 +76,7 @@ jobs:
       - uses: actions/checkout@v7
       - name: Build image
         run: docker build -t printables-mcp .
-      # Directories such as Glama build this Dockerfile and list the tools over stdio
+      # Docker-based catalogs build this Dockerfile and list the tools over stdio
       - name: Smoke test the image
         run: |
           {

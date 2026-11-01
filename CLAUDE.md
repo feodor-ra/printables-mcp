@@ -30,7 +30,8 @@ Repo root also has `server.json` (MCP Registry metadata), `Dockerfile` and `glam
 
 - PyPI via Trusted Publishing: `uv-publish.yml` runs on a published GitHub release (environment `pypi`, deployments limited to `v*` tags) and checks the tag against the pyproject version.
 - Official MCP Registry as `io.github.feodor-ra/printables-mcp`: the `mcp-registry` job runs after the PyPI upload, logs in with GitHub OIDC and publishes `server.json` with its versions overwritten from the tag. The registry verifies PyPI ownership by the `<!-- mcp-name: io.github.feodor-ra/printables-mcp -->` line in README.md, which must be in the description of the very version being registered. Registry versions are immutable.
-- `Dockerfile` + `glama.json` exist for Glama (it builds the image and lists tools over stdio, offline); CI builds and smoke-tests the image.
+- Glama: `glama.json` names the maintainer for the claim. Glama does **not** build the root `Dockerfile`: it writes its own from the build spec on the listing's admin page (Debian, uv with a uv-managed Python, the synced commit cloned into `/app`, `mcp-proxy` in front of the command), then needs a Deploy (build test) and a Make Release there; tools and quality scores come from that release. Values to enter: Python version `3.12`, build steps `["uv sync --locked --no-dev --directory /app"]`, CMD arguments `["/app/.venv/bin/printables-mcp"]`, no environment variables. Verified in a container approximating that setup, with Python downloads disabled and no network at runtime.
+- The root `Dockerfile` is for Docker-based catalogs and local use; CI builds it and checks `tools/list`.
 
 ## Decisions
 
